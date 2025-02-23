@@ -1,0 +1,1 @@
+This repository contains a simple x86 assembly program demonstrating an out-of-bounds memory access vulnerability. The program attempts to access memory beyond the allocated space, leading to a segmentation fault or unpredictable behavior. A solution is provided to address the issue using bounds checking.
